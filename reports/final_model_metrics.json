@@ -1,0 +1,11 @@
+{
+    "model": "Balanced Logistic Regression",
+    "accuracy": 0.7381121362668559,
+    "churn_precision": 0.504302925989673,
+    "churn_recall": 0.7834224598930482,
+    "churn_f1_score": 0.6136125654450262,
+    "test_rows": 1409,
+    "training_rows": 5634,
+    "input_feature_count": 19,
+    "created_at": "2026-10-26T14:18:42"
+}
